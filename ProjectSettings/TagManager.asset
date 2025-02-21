@@ -11,13 +11,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Ground
+  - Obstacle
+  - Enemy
+  - Projectile
+  - Level
+  - InvisibleWall
   - 
   - 
   - 
